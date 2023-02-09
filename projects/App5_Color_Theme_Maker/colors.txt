@@ -1,0 +1,4 @@
+Color Theme Maker Output
+(000),(255),(000)
+#00ff00
+
